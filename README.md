@@ -5,7 +5,7 @@ Through out the process of learning Deep Learning, I came across various prexisi
 on multiple class based image datasets and various models which already exist and can run on
 this models to predict the outcome of a given picture to the model.
 
-Every model has special specialities, initial modesl require more resources to run and thus newer
+Every model has special specifications, initial models require more resources to run and thus newer
 and more lightweight and optimised models are developed on day to day basis in order to get best
 results in limited time and resources constraint.
 
